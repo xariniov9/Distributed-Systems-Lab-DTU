@@ -1,0 +1,4 @@
+Date and Time: Tue Apr 14 17:04:41 2020
+creating a process on port 1029 with id 6 
+ANNOUNCING SELF AS NEW COORDINATOR
+

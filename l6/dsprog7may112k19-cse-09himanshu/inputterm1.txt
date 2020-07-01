@@ -1,0 +1,221 @@
+Date and Time: Mon May 11 12:24:04 2020
+
+Generating RSA key...
+
+Key generation completed successfully
+
+RSA Keys Generated!
+
+-----BEGIN PUBLIC KEY-----
+MIIBIDANBgkqhkiG9w0BAQEFAAOCAQ0AMIIBCAKCAQEAvWjIKYwYOtkt4/ywOkA6
+GKnsSGfOuXGqOAAsous7xoRVVc+TRcc70q6xYK4gxSS2mCxi0T7C5rbT5n9Xei6I
+0wwr20DkFwqO5h4QT+JhDNsmsAe73Yfprif76cPd0eOTm7XL3BadxMR86cvZkjOI
+oatK3MdudrM4XW4moLW6IVWpFrULf21LHXPC1sGDkBWjzc1heXsiF5ZrQ7QGI+bI
+GLueRLmPzsC0bYNyCniumLGhoUw5yz3vPF5ag+uXcdMMQUjCeyUrBRn+TW5sCT0f
+m6yQcmZJfEyx9JLvAkpzmv7+N7z2ZAWLUExf4dMrkRwVBka2gpwn7p2sEJaDy4cO
+KwIBAw==
+-----END PUBLIC KEY-----
+
+
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAvWjIKYwYOtkt4/ywOkA6GKnsSGfOuXGqOAAsous7xoRVVc+T
+Rcc70q6xYK4gxSS2mCxi0T7C5rbT5n9Xei6I0wwr20DkFwqO5h4QT+JhDNsmsAe7
+3Yfprif76cPd0eOTm7XL3BadxMR86cvZkjOIoatK3MdudrM4XW4moLW6IVWpFrUL
+f21LHXPC1sGDkBWjzc1heXsiF5ZrQ7QGI+bIGLueRLmPzsC0bYNyCniumLGhoUw5
+yz3vPF5ag+uXcdMMQUjCeyUrBRn+TW5sCT0fm6yQcmZJfEyx9JLvAkpzmv7+N7z2
+ZAWLUExf4dMrkRwVBka2gpwn7p2sEJaDy4cOKwIBAwKCAQB+RdrGXWV8kMlCqHV8
+KtFlxp2FmonQ9nF6qshsnNKEWDjj37eD2ifhycuVyWsuGHm6yEHg1IHvJI1EVOT8
+HwXiCB081e1ksbSZaWA1QZYIkhnKr9KTr/EexVKb1+k2l7e9I909ZGkt2FNGh+Zh
+d7Brx4c92kmkd3ro9BnAeSbA4p3RIyFppcDT5AcEGgZwA4VFuOcQt8u2r2OjsNBw
+hWbw1H6r9GyKJ/01RkiXIMQic3Hj2Lz/xxLT5KBFzv+txHd2C1JzUNVhSkk2oht8
+19xkI/kkK7ONUKd7QqDbfw0Fu9SYBWk2P5xjsqeKjzU6hBv5mYhOllSW8AyQH6Y0
+1pxrAoGBAPvG+rwoa0tnuMu8Gp+TaJXb4krv7aFH3ntjhH2CJOgGn+CgB/MhPKrB
+TTGIibPGUStfg81x2wOutYzZQzfX0ahnwqndZT4O4fF8bmzKa88VpStlqzvA+ElQ
+hQ4YwD4zfRVjTwEvOOK1t1Xyi48Fx4em59cJdhl2ExYYg/TRxR/7AoGBAMCWBZ04
+iV535OyUf9pUp8YJVbvwec89sNpqpk/4+cWo3P+iwvneSA3cTNOfPdSes0tsA1DZ
+uE9P0d1B8eAVWrCodRzwxqzkSJ7/DNYDjYXv0W9WeYBnW21rKe+gS6He6CnwZddj
+bT4FCQ6fcMyzjmNo+JMDRI+WIoMf4xWqgAORAoGBAKfZ/H1wR4eaezJ9ZxUM8GPn
+7DH1SRYv6aeXrakBbfAEapXABUzA0xyA3iEFsSKENhzqV95L51fJzl3mLM/lNnBF
+LHE+Q360lqD9nvMxnTS5GMeZHNKApYY1rgll1X7M/g5CNKt00Jcjz46hsl9ZL6/E
+mo9bpBD5Yg67AqM2g2qnAoGBAIBkA74lsOmlQ0hi/+bjGoQGOSf1poopIJGcbt/7
+US5wk1UXLKaUMAk9iI0U0+MUd4edV4s70DTf4T4r9pVjkcsa+L312ciYMGn/XeQC
+XllKi5+O+6rvkkjyG/UVh8E/RXFK7o+XnilYsLRqSzMiXuzwpbdXgwpkFwIVQg5x
+qq0LAoGBAL4pZHh01plHFjfM3skZS5ninRG1GvmRIALu4Sihe80nuLS5NMOxlvzU
+e7CxLnV8k2maUSgtwHvZtMd+z7fuOn+wzkoH+TO/KXfKbWdHO7dg5rhBukjRrKjf
+i5OfiLLRjZifXCyBuIgVMFKyn1ySr576HLp0bMxtNoexHNVBQxKS
+-----END RSA PRIVATE KEY-----
+
+
+Socket successfully created..
+
+Socket successfully binded..
+
+Server listening..
+
+server acccept the client...
+
+Solving random challenge for authentication
+Recieved random nonce!
+
+Encrypting the recieved nonce with shared key!
+
+AES CCM Encrypt:
+
+Plaintext:
+0000 - de 93 71 df d4 2e 45 45-                          ..q...EE
+...
+
+Ciphertext:
+0000 - fb 17 e6 54 2f 80 ee 7a-                          ...T/..z
+...
+
+Tag:
+0000 - c3 80 b7 fd 10 c6 eb 43-0c 5a da b0 5d 04 2a 70   .......C.Z..].*p
+
+Encryption done
+Sending response...
+
+Sending challenge for authentication of other party...
+Generating random nonce...
+
+Nonce was sent
+
+Response from other party recieved!
+
+Decrypting the response from symmetric key...
+
+AES CCM Derypt:
+
+Ciphertext:
+0000 - e6 3d 87 94 72 57 51 09-                          .=..rWQ.
+...
+
+Plaintext:
+0000 - 39 d6 b4 23 2e b3 83 39-                          9..#...9
+...
+
+Decryption completed!
+
+Response was authenticated and the other party is now authenticated!
+
+Mutual Authentication done! Both parties are now authenticated!
+
+Sending own Public key to other party
+
+Recieved Public key of other party
+
+-----BEGIN PUBLIC KEY-----
+MIIBIDANBgkqhkiG9w0BAQEFAAOCAQ0AMIIBCAKCAQEAp7WBN21ZTW0640Z3coxH
+AUX6+uh9lfR6Y2l5wP0qILZNNLZykwP9JqZLZJ3MOW1jbZ/iexul15TrXdIoYTQr
+UQ7x1B3oa6ZTY2cvbBvv+4LV0FfYF6QpSIAzb19LoeTumBhLd1Cg/1QG3BCkClfk
+s74LOalM60hjm16LWknbPXkSf6flfwx+IOyQqMPV923VCAqf6NV423Sxry40j5W5
+kO5sUIWCp6PeiJakqjC1dInyLhCVVGgsCeEOKSx3j4fUGsD+3kH+19nvZSIXzQqC
+uZNfKJYWQ6Efjw3niQ5UoTIwUpyuMIQtjc0uT221LODdS9wiVx2T28j03Q0fiLQK
+jwIBAw==
+-----END PUBLIC KEY-----
+
+
+Message transfer will now start
+
+Applying Decryption
+
+AES CCM Derypt:
+
+Ciphertext:
+0000 - 9e ab 45 f9 33 36 35 d0-00 5b 15 ee 5f f1 9e 28   ..E.365..[.._..(
+...
+
+Plaintext:
+0000 - 41 40 76 4e 6f d2 e7 e0-05 24 3b e0 14 76 40 3e   A@vNo....$;..v@>
+...
+
+Verifying Digital Signature
+
+Digital Signature verified!
+
+Decrypted: hello
+
+Length of decrypted message: 6
+
+Enter the string : how are you?
+
+Applying Digital Signature..
+
+Applying Encryption
+
+AES CCM Encrypt:
+
+Plaintext:
+0000 - 68 d3 cd e4 e6 7b 7d 4b-66 3f ef 93 bf bb d1 1b   h....{}Kf?......
+...
+
+Ciphertext:
+0000 - b7 38 fe 53 ba 9f af 7b-63 40 c1 9d f4 3c 0f 0d   .8.S...{c@...<..
+...
+
+Tag:
+0000 - 21 a4 0a 1d 4f 03 c3 0d-2b e0 ba ae bc d7 b1 5c   !...O...+......\
+
+Message sent after sign and encryption
+
+Applying Decryption
+
+AES CCM Derypt:
+
+Ciphertext:
+0000 - e5 90 29 45 dc 2a 1b c3-84 17 98 0b f8 1e d3 ed   ..)E.*..........
+...
+
+Plaintext:
+0000 - 3a 7b 1a f2 80 ce c9 f3-81 68 b6 05 b3 99 0d fb   :{.......h......
+...
+
+Verifying Digital Signature
+
+Digital Signature verified!
+
+Decrypted: I am good, bye
+
+Length of decrypted message: 15
+
+Enter the string : bye
+
+Applying Digital Signature..
+
+Applying Encryption
+
+AES CCM Encrypt:
+
+Plaintext:
+0000 - 38 f8 03 a1 53 6e 1d a9-ee f4 60 69 e6 f2 83 5c   8...Sn....`i...\
+...
+
+Ciphertext:
+0000 - e7 13 30 16 0f 8a cf 99-eb 8b 4e 67 ad 75 5d 4a   ..0.......Ng.u]J
+...
+
+Tag:
+0000 - 7f e6 63 65 7c 74 cc d1-55 6f a3 7b fc a2 98 22   ..ce|t..Uo.{..."
+
+Message sent after sign and encryption
+
+Applying Decryption
+
+AES CCM Derypt:
+
+Ciphertext:
+0000 - 00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00   ................
+...
+
+Plaintext not available: tag verify failed.
+
+Verifying Digital Signature
+
+Digital Signature not able to verify!
+
+Decrypted: 
+Length of decrypted message: -1
+
+Enter the string : exit
+
+Server Exit...

@@ -1,0 +1,12 @@
+Date and Time: Tue Apr 14 17:04:26 2020
+creating a process on port 1024 with id 1 
+Do you want to send the HELLO message? y/n
+y
+sending HELLO to: 1025
+sending HELLO to: 1026
+Do you want to send the ELECTION message?
+y
+sending ELECTION to: 1025
+sending ELECTION to: 1026
+recieved COORDINATOR=1029
+

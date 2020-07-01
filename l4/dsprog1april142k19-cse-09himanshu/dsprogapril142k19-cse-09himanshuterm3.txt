@@ -1,0 +1,7 @@
+Date and Time: Tue Apr 14 17:04:32 2020
+creating a process on port 1026 with id 3 
+recieved HELLO from 1
+sending FORWARD to: 1027
+sending FORWARD to: 1028
+recieved COORDINATOR=1029
+

@@ -1,0 +1,7 @@
+Date and Time: Tue Apr 14 17:04:38 2020
+creating a process on port 1028 with id 5 
+sending FORWARD to: 1029
+sending FORWARD to: 1029
+sending FORWARD to: 1029
+recieved COORDINATOR=1029
+
